@@ -811,12 +811,12 @@ Similar comments apply to the Survey details window and Analysis details window.
 Distance R packages web site download and installation pages
 ============================================================
 
-Add a Download R section
+~~Add a Download R section~~
 ------------------------
 
 The Distance R packages page has no explicit Download R section. Providing this would make it clearer as a task. It would also provide a place to specify the requirement, from Download Distance 6.2, that Distance for Windows 6.2 was compiled with R version 3.1.0 and a link to R version 3.1.0 as on that page.
 
-Add a link to the R web site
+~~Add a link to the R web site~~
 ----------------------------
 
 A link to the R  web site, http://www.r-project.org/, would be useful.
@@ -840,7 +840,7 @@ Clicking No gave:
 
 This error is described in Installation of R for use with Distance 6.2. As it applies not just to Distance for Windows it should be renamed and linked from Distance R packages.
 
-Add a How to run Rmd files section
+~~Add a How to run Rmd files section~~
 ----------------------------------
 
 I had to Google to find out what .Rmd files are. A colleague who has used R had never heard of them, though another had.
@@ -860,7 +860,7 @@ Add a link to [RStudio](http://www.rstudio.com/) and a short summary of how to e
 Distance R vignettes
 ====================
 
-Rename to Getting Started or Walkthrough
+~~Rename to Getting Started or Walkthrough~~
 ----------------------------------------
 
 Distance R packages has a Vignettes section:
@@ -869,7 +869,7 @@ Distance R packages has a Vignettes section:
 
 Call it Getting started for consistency with the Distance for Windows user guide.
 
-Fix `All models failed to fit!` bug
+~~Fix `All models failed to fit!` bug~~
 -----------------------------------
 
 Running [Simple detection function analysis of duck nests](http://distancesampling.org/R/vignettes/ducknests.html) gives:
@@ -887,7 +887,7 @@ Running [Simple detection function analysis of duck nests](http://distancesampli
     This is mrds 2.1.5
     Built: R 3.1.0; ; 2014-04-22 22:52:57 UTC; windows
     Warning message:
-    package ‘Distance’ was built under R version 3.1.1 
+    package Â‘DistanceÂ’ was built under R version 3.1.1 
     > tidy.opts <- list(width.cutoff=40)
     > ducknests <- read.csv("ducknests.csv")
     > head(ducknests)
@@ -927,7 +927,7 @@ This also arises when running `ducknests.Rmd` in RStudio:
     Calls: <Anonymous> ... withCallingHandlers -> withVisible -> eval -> eval -> ds
     Execution halted
 
-Describe whether warnings can be ignored
+~~Describe whether warnings can be ignored~~
 ----------------------------------------
 
 In [Mark-recapture distance sampling using R](http://distancesampling.org/R/vignettes/crabeater-mrds-2014.html), running the following gives a warning:
@@ -939,6 +939,8 @@ In [Mark-recapture distance sampling using R](http://distancesampling.org/R/vign
       Name partially matched in data frame
     2: In `$.data.frame`(region.table, Region) :
       Name partially matched in data frame
+
+*DLM: can't reproduce this*
 
 Likewise for [Mark-recapture distance sampling using R](http://distancesampling.org/R/vignettes/golftees-mrds.html):
 
@@ -954,7 +956,10 @@ Likewise for [Mark-recapture distance sampling using R](http://distancesampling.
     4: In `$.data.frame`(region.table, Region) :
       Name partially matched in data frame
 
-Note that there may be differences in rounding
+*DLM: can't reproduce this*
+
+
+~~Note that there may be differences in rounding~~
 ----------------------------------------------
 
 [Conducting simple distance analysis with a stratified study region](http://distancesampling.org/R/vignettes/minke.html) states that:
@@ -975,7 +980,7 @@ Whereas, when running it, I got, the less precise 8.618 and 37.277:
 
 Add a small note that there may be small differences due to rounding depending upon the platform used to run Distance.
 
-Specify Distance for Windows version
+~~Specify Distance for Windows version~~
 ------------------------------------
 
 [Conducting simple distance analysis with a stratified study region](http://distancesampling.org/R/vignettes/minke.html) states that:
@@ -984,7 +989,7 @@ Specify Distance for Windows version
 
 It is unclear what version of Distance for Windows was used. Rephrase Program Distance as Distance for Windows.
 
-Make vignettes standalone
+~~Make vignettes standalone~~
 -------------------------
 
 [Conducting simple distance analysis with a stratified study region](http://distancesampling.org/R/vignettes/minke.html) states that the:
@@ -1015,13 +1020,15 @@ are all marked:
 
 Remove these references to other projects and the workshop so that the vignettes can be used standalone and a user will not be concerned that they are missing context.
 
-Fix typos
+~~Fix typos~~
 ---------
+
+*DLM: I can't find either of these typos in the files I have*
 
 * Mark-recapture distance sampling using R: aspart
 * Multiple covariate distance sampling with crabeater seal data: avaiable, comes to our aide
 
-Update R MarkDown scripts to document dependencies and load libraries
+~~Update R MarkDown scripts to document dependencies and load libraries~~
 ---------------------------------------------------------------------
 
 Running `minke.RMd` in RStudio gave:
@@ -1040,7 +1047,8 @@ Then update the script to:
 
     library(knitr)
 
-Fix bugs in `crabeter-mcds-2014.rmd`
+
+~~Fix bugs in `crabeter-mcds-2014.rmd`~~
 ------------------------------------
 
 Running `crabeter-mcds-2014.rmd` in RStudio gave:
