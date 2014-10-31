@@ -69,7 +69,7 @@ This can be corrected as we go through writing Distance 7 docs, but as pointed o
 ## Started work on
 
   * Ensure more,than one team member can access `distance@mcs.st-and.ac.uk`
-    - need to find out what's going on from Phil (`@mcs` issues).
+    - `@mcs` addresses will be shut down soon, Phil has got us `distance@st-andrews.ac.uk` which Eric, Laura, Dave and Len can access. The `@mcs` address can be forwarded there.
   * Point workshop bibliography page to new bibliography
     - check with Mike where this error is, ask Rhona/Steve Smart to edit page
 
