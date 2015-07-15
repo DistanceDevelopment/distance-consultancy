@@ -138,8 +138,8 @@ Likewise, Installation of R for use with Distance 6.2 provides Distance 6.2 and 
 
 A user may have already installed R only to later discover they've installed a problematic version e.g. an earlier version of R or a 64-bit version only. Mention any R version restrictions on the Distance for Windows page and also as part of the Download Instructions in Download Distance 6.2.
 
-Remove duplicated paragraphs
------------------------------
+~~Remove duplicated paragraphs~~
+--------------------------------
 
 Download Distance 6.2 has the following two almost-identical paragraphs:
 
