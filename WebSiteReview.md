@@ -366,8 +366,8 @@ The page [Distance sampling email list](http://distancesampling.org/distancelist
 
 Moving the content of 'Distance sampling email list' (all but the reference to the old JISCMail mailing list) to 'GoogleGroup' keeps the description of the purpose of the list, and information as to how to subscribe, with the list itself. It also means there is one less web site page to maintain.
 
-Add a hyperlink from GoogleGroup to web site
---------------------------------------------
+~~Add a hyperlink from GoogleGroup to web site~~
+------------------------------------------------
 
 There is currently no link to the web site from the GoogleGroup.
 
