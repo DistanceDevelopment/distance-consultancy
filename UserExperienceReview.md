@@ -149,13 +149,13 @@ Download Distance 6.2 has the following two almost-identical paragraphs:
 
 Remove one copy.
 
-Add links to MRDS and DSM CRAN packages
----------------------------------------
+~~Add links to MRDS and DSM CRAN packages~~
+-------------------------------------------
 
 Add direct links to the MRDS and DSM CRAN packages, or, at least, a link to [Distance R packages](http://distancesampling.org/R/index.html), so the user can get more information more rapidly.
 
-State that the local copy of R 3.1.0 is not a custom bundle
------------------------------------------------------------
+~~State that the local copy of R 3.1.0 is not a custom bundle~~
+---------------------------------------------------------------
 
 At the bottom of Download Distance 6.2, under Additional Information, is the comment:
 
