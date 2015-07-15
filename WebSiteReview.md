@@ -50,13 +50,13 @@ And, on the right hand side:
 
 Consider these changes to the left-hand side:
 
-* Remove the 'Distance sampling button':
- - This takes the user to the [What is distance sampling?](http://distancesampling.org/whatisds.html) page. Users may expect buttons like this to invoke some action like a download or take them directly to a download page, rather than just acting as a standard hyper-link.
-* Provide a 'Download Distance 6.2' button:
- - The 'Download Distance for Windows' button takes the user to the [Distance for Windows](http://distancesampling.org/Distance/index.html) page. The user then has to go from here to the [Download Distance 6.2](http://distancesampling.org/Distance/old-versions/distance62download.html) page for the latest release. 
- - It would be useful to provide a button that takes the user directly to the download page for the latest release.
-* Highlight the 'Download Distance 6.2' button:
- - SourceForge projects (e.g. see [TPLS](http://sourceforge.net/projects/tpls/)) make the download button prominent, in green, to draw the user's attention to it.
+[X] Remove the 'Distance sampling button':
+  - This takes the user to the [What is distance sampling?](http://distancesampling.org/whatisds.html) page. Users may expect buttons like this to invoke some action like a download or take them directly to a download page, rather than just acting as a standard hyper-link.
+[ ] Provide a 'Download Distance 6.2' button:
+  - The 'Download Distance for Windows' button takes the user to the [Distance for Windows](http://distancesampling.org/Distance/index.html) page. The user then has to go from here to the [Download Distance 6.2](http://distancesampling.org/Distance/old-versions/distance62download.html) page for the latest release. 
+  - It would be useful to provide a button that takes the user directly to the download page for the latest release.
+[ ] Highlight the 'Download Distance 6.2' button:
+  - SourceForge projects (e.g. see [TPLS](http://sourceforge.net/projects/tpls/)) make the download button prominent, in green, to draw the user's attention to it.
 
 Consider structuring the right-hand side into the following sections:
 
@@ -91,40 +91,40 @@ A number of pages invite users to get in touch, whether it be to request feature
 
 Contact the team:
 
-* [Distance history](http://distancesampling.org/distancehistory.html): 'If you have any comments or suggestions about the program, we'd love to hear from you!'.
-* [Download Distance 5.0](http://distancesampling.org/Distance/old-versions/distance50download.html): 'Please contact us if you are aware of a problem with the software that is not listed here'.
-* [Known problems and workarounds Distance 3.5 Release 6](http://distancesampling.org/Distance/old-versions/distanceknownproblems.html): 'Please contact program authors', 'Please email your project file to the program authors'.
-* [Resolved problems and new features Distance 4.1 Release 2](http://distancesampling.org/Distance/old-versions/d41resolvedproblems.html): 'contact program authors', 'Please contact the program authors'.
+ - [X] [Distance history](http://distancesampling.org/distancehistory.html): 'If you have any comments or suggestions about the program, we'd love to hear from you!'.
+ - [X] [Download Distance 5.0](http://distancesampling.org/Distance/old-versions/distance50download.html): 'Please contact us if you are aware of a problem with the software that is not listed here'.
+ - [X] [Known problems and workarounds Distance 3.5 Release 6](http://distancesampling.org/Distance/old-versions/distanceknownproblems.html): 'Please contact program authors', 'Please email your project file to the program authors'.
+ - [X] [Resolved problems and new features Distance 4.1 Release 2](http://distancesampling.org/Distance/old-versions/d41resolvedproblems.html): 'contact program authors', 'Please contact the program authors'.
 
 Contact the team, with a link to [Distance development team](http://distancesampling.org/authors.html):
 
-* [Distance Extras](http://distancesampling.org/distanceextras.html): 'Once you have exhausted these possibilities, please contact the program authors', 'If you have written a utility program that you think others would find useful in their dealings with Distance we would be happy to publish it here. Please contact us'.
-* [Download Distance 3.5](http://distancesampling.org/Distance/old-versions/distance35download.html): 'If you find a problem with Distance 3.5 that is not listed here, please contact us'.
-* [Download Distance 2.2](http://distancesampling.org/Distance/old-versions/distance22download.html): 'If you find it impossible to obtain Distance 2.2 over the internet, please contact us'.
+ - [X] [Distance Extras](http://distancesampling.org/distanceextras.html): 'Once you have exhausted these possibilities, please contact the program authors', 'If you have written a utility program that you think others would find useful in their dealings with Distance we would be happy to publish it here. Please contact us'.
+ - [X] [Download Distance 3.5](http://distancesampling.org/Distance/old-versions/distance35download.html): 'If you find a problem with Distance 3.5 that is not listed here, please contact us'.
+ - [X] [Download Distance 2.2](http://distancesampling.org/Distance/old-versions/distance22download.html): 'If you find it impossible to obtain Distance 2.2 over the internet, please contact us'.
 
 Contact specific team members:
 
-* [Distance sampling email list](http://distancesampling.org/distancelist.html): 'If you have any issues joining the group, contact David Miller (dlm22 at st-andrews.ac.uk)'.
-* [Distance Sampling References](http://distancesampling.org/dbib.html) 'Please contact Tiago Marques (tiago.marques), Eric Rexstad (eric.rexstad) or Dave Miller (dlm22) to add, remove, or correct entries (all addresses are at st-andrews.ac.uk)'.
+ * [X] [Distance sampling email list](http://distancesampling.org/distancelist.html): 'If you have any issues joining the group, contact David Miller (dlm22 at st-andrews.ac.uk)'.
+ * [ ] [Distance Sampling References](http://distancesampling.org/dbib.html) 'Please contact Tiago Marques (tiago.marques), Eric Rexstad (eric.rexstad) or Dave Miller (dlm22) to add, remove, or correct entries (all addresses are at st-andrews.ac.uk)'.
 
 E-mail distance@mcs.st-and.ac.uk:
 
-* [Sponsors of Distance](http://distancesampling.org/distancesponsors.html): 'If you are interested in helping to support distance, or funding development of specific features, please contact us at distance@mcs.st-and.ac.uk'.
-* [Contact Us](http://distancesampling.org/contact.html): 'Please e-mail us at distance@mcs.st-and.ac.uk', 'Once you have exhausted these possibilities, please send a message detailing the problem to the e-mail address distance@mcs.st-and.ac.uk'.
-* [Distance 6.2 Release 1 Release Notes - 22 April 2014](http://distancesampling.org/Distance/old-versions/downloads/ReadMeD62.rtf): '(5) contact the program authors by email: distance@mcs.st-and.ac.uk'.
+  * [X] [Sponsors of Distance](http://distancesampling.org/distancesponsors.html): 'If you are interested in helping to support distance, or funding development of specific features, please contact us at distance@mcs.st-and.ac.uk'.
+  * [X] [Contact Us](http://distancesampling.org/contact.html): 'Please e-mail us at distance@mcs.st-and.ac.uk', 'Once you have exhausted these possibilities, please send a message detailing the problem to the e-mail address distance@mcs.st-and.ac.uk'.
+  * [X] [Distance 6.2 Release 1 Release Notes - 22 April 2014](http://distancesampling.org/Distance/old-versions/downloads/ReadMeD62.rtf): '(5) contact the program authors by email: distance@mcs.st-and.ac.uk'.
 
 E-mail jiscmail@jiscmail.ac.uk:
 
-* [Distance 6.2 Release 1 Release Notes - 22 April 2014](http://distancesampling.org/Distance/old-versions/downloads/ReadMeD62.rtf): 'To join this distance-sampling list, send an email to jiscmail@jiscmail.ac.uk ...'
-* This list was deprecated in June 2014.
+  * [ ] [Distance 6.2 Release 1 Release Notes - 22 April 2014](http://distancesampling.org/Distance/old-versions/downloads/ReadMeD62.rtf): 'To join this distance-sampling list, send an email to jiscmail@jiscmail.ac.uk ...'
+    * This list was deprecated in June 2014.
 
 E-mail distance-sampling@googlegroups.com:
 
-* [Distance development team](http://distancesampling.org/authors.html): via [Mailing list](http://distancesampling.org/distancelist.html).
+  * [X] [Distance development team](http://distancesampling.org/authors.html): via [Mailing list](http://distancesampling.org/distancelist.html).
 
 Use [Bugzilla](http://www.ruwpa.st-and.ac.uk/distance/bugzilla/):
 
-* [Distance Extras](http://distancesampling.org/distanceextras.html) via [Reporting a bug in Distance](http://distancesampling.org/Distance/bugreport.html).
+  * [X] [Distance Extras](http://distancesampling.org/distanceextras.html) via [Reporting a bug in Distance](http://distancesampling.org/Distance/bugreport.html).
 
 The information is contradictory. For example, 'Distance development team' says that 'When asking questions, please direct them towards the Distance mailing list or the support e-mail address, rather than individual team members.' yet 'Distance history', 'Distance sampling email list', 'Distance Sampling References', and 'Distance Extras' all recommend contacting the authors.
 
