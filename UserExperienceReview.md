@@ -265,8 +265,8 @@ Extend the installer to give the user the choice of adding a Distance shortcut i
 Distance 6.2 Release 1 Release Notes - 22 April 2014
 ====================================================
 
-Update references to release notes
-----------------------------------
+~~Update references to release notes~~
+-------------------------------------
 
 p3 states that:
 
@@ -285,7 +285,7 @@ p1-2 has a section, Windows Script 5.6, which states that:
 
 The Distance for Windows installer asks the user if they wish to install Windows Script 5.6 if they are installing on Windows XP but not if they are installing on Windows 7. The user guide should be updated to reflect this.
 
-p3 states that:
+~~p3 states that:~~
 
 > Choose Distance 5 from the list
 
@@ -316,7 +316,7 @@ Some of the DLL names differ also. To avoid these inconsistencies, ask the user 
 Update references to web site
 -----------------------------
 
-p2 states that:
+~~p2 states that:~~
 
 > For more information, see Known Problem 247 (on the Distance web site, support page).
 
@@ -329,8 +329,8 @@ p2 states that:
 
 This is not recorded on Current restrictions, known problems and workarounds Distance 6.0 Release 2.
 
-Update references to mailing list
----------------------------------
+~~Update references to mailing list~~
+-------------------------------------
 
 p4 states that:
 
@@ -348,8 +348,8 @@ with a brief summary (e.g. 'For help, support and discussion...').
 
 This reduces the risk of the information becoming out-of-date.
 
-Update references to user guide
--------------------------------
+~~Update references to user guide~~
+-----------------------------------
 
 p3 states that:
 
@@ -357,7 +357,7 @@ p3 states that:
 
 This information is in Chapter 3 - Getting Started of the user guide.
 
-Replace references to 'online help' with 'user guide'
+~~Replace references to 'online help' with 'user guide'~~
 -----------------------------------------------------
 
 p3 states that:
@@ -370,7 +370,7 @@ There are other references to the 'online help' also but no link is given. There
 * Help => Online Manuals => User's Guide (pdf)
 * `C:\Program Files (x86)\Distance 6\Help\distance.pdf`
 
-Fix typos
+~~Fix typos~~
 ---------
 
 * p1, 'requires requires'
