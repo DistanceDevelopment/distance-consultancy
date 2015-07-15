@@ -297,8 +297,8 @@ Problematic links were spotted on the following pages:
 * [Distance Sampling Software Order Form](http://distancesampling.org/order.htm):
  - URL is displayed as text 'http://www.ruwpa.st-and.ac.uk/distance/' and redirects to http://distancesampling.org, so hide the URL (e.g. just use 'The Distance project').
 
-Don't claim Distance is 'easy to use'
--------------------------------------
+~~Don't claim Distance is 'easy to use'~~
+-----------------------------------------
 
 The [front page](http://distancesampling.org/) states that:
 
@@ -334,8 +334,8 @@ Given the number of pages in the web site, a search button would be very useful.
 Low priority recommendations
 ============================
 
-Add diagrams of line and point surveying
-----------------------------------------
+~~Add diagrams of line and point surveying~~
+--------------------------------------------
 
 [What is distance sampling?](http://distancesampling.org/whatisds.html) describes the concepts behind Distance, particularly 'In the case of lines the perpendicular distances to detected animals are recorded, while in the case of points the radial distances from the point to detected animals are recorded.'
 
@@ -355,7 +355,7 @@ Link R data sets from vignette pages
 
 [Distance R packages](http://distancesampling.org/R/index.html) provides links to a series of 'vignette' (case study) pages along with links to data files in .RMd and CVS format.
 
-The .Rmd are not coloured blue and so it is not clear they are hyper-links. 
+~~The .Rmd are not coloured blue and so it is not clear they are hyper-links.~~
 
 It would be preferable to link the data sets from their associated vignette pages. This means that a user coming across a vignette page has everything they need without having to look around elsewhere for the associated data files. 
 
