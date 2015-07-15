@@ -743,8 +743,8 @@ The user's guide, p311, states that:
 
 It can be useful to provide tools to help users and developers automatically upgrade from previous versions e.g. for the above this could be a script to convert command files to the 6 header line format mentioned above.
 
-Host project resources in project, not personal, spaces
--------------------------------------------------------
+~~Host project resources in project, not personal, spaces~~
+-----------------------------------------------------------
 
 Certain GitHub resources are hosted in David Miller's own GitHub repositories. For example:
 
