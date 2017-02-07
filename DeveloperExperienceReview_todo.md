@@ -121,3 +121,4 @@ Additional general recommendations
  - [ ] ~~Automate upgrade support~~
  - [X] Host project resources in project, not personal, spaces
  - [ ] **Add copyright and licence statements to each R repository**
+    - Added for `Distance`, `mrds`, `dsm`, `readdst`
