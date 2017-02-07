@@ -51,7 +51,8 @@ Source code and documentation management
  - [ ] **Put all manually-created artefacts under revision control**
  - [X] Move MCDS code to GitHub
  - [ ] Fix link to `mrds` repository
- - [ ] *Dave*: **Clarify whether SourceForge hosts the canonical FORTRAN code**
+ - [X] *Dave*: **Clarify whether SourceForge hosts the canonical FORTRAN code**
+    - SourceForge repo still exists [here](https://sourceforge.net/projects/distanceengines/) and needs to be deleted
  - [ ] *Dave*: **Add an MCDS README**
 
 
