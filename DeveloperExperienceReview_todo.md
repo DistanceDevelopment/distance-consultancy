@@ -1,7 +1,7 @@
-Developer Experience Review
-===========================
+Developer Experience Review todo list
+=====================================
 
-Based on []() by Mike Jackson, The Software Sustainability Institute / EPCC, The University of Edinburgh
+Based on [`DeveloperExperienceReview.md`](https://github.com/DistanceDevelopment/distance-consultancy/blob/master/DeveloperExperienceReview.md) by Mike Jackson, The Software Sustainability Institute / EPCC, The University of Edinburgh
 
 **Bold** indicates high priority.
 
