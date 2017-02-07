@@ -76,8 +76,10 @@ Testing protocols
  - [ ] Provide information on how to write and run VB tests
  - [ ] Implement MCDS tests
  - [ ] Provide information on how to write and run MCDS tests
- - [ ] Generalise `testthat` advice
- - [ ] Update link to `testthat`
+ - [X] Generalise `testthat` advice
+    - [already done](http://distancesampling.org/developer/develop/BuildR.html)
+ - [X] Update link to `testthat`
+    - [already done](http://distancesampling.org/developer/develop/BuildR.html)
 
 *Laura mentioned importance of having a repo for test projects*
 
