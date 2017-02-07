@@ -3,26 +3,32 @@ Developer Experience Review
 
 Based on []() by Mike Jackson, The Software Sustainability Institute / EPCC, The University of Edinburgh
 
+**Bold** indicates high priority.
+
+*Italic* indicates medium priority.
+
+Bold/italic items without names are for Laura.
+
+
 
 Refactor developer information form, content and hosting
 ========================================================
 
- - [ ] Use wikis or revision control
+ - [ ] *Use wikis or revision control*
  - [ ] Host documentation alongside its related products
- - [ ] Review and update documentation
+ - [ ] **Review and update documentation**
 
 Folder, file and database formats
 =================================
 
- - [ ] Mention `.dst` file format in user's guide
+ - [ ] **Mention `.dst` file format in user's guide**
 
 Interfaces between Distance for Windows, FORTRAN and R
 ======================================================
 
-
- - [ ] Pull out Appendix - MCDS Engine Reference into a stand-alone user guide
- - [ ] Update reference on how to run MCDS from another program
- - [ ] Provide standalone R and MCDS examples
+ - [ ] **Pull out Appendix - MCDS Engine Reference into a stand-alone user guide**
+ - [ ] *Len* **Update reference on how to run MCDS from another program**
+ - [ ] *Len* **Provide standalone R and MCDS examples**
 
 
 API documentation
@@ -42,46 +48,55 @@ Dependencies on third-party software
 Source code and documentation management
 ========================================
 
-
- - [ ] Put all manually-created artefacts under revision control
- - [ ] Move MCDS code to GitHub
+ - [ ] **Put all manually-created artefacts under revision control**
+ - [X] Move MCDS code to GitHub
  - [ ] Fix link to `mrds` repository
- - [ ] Clarify whether SourceForge hosts the canonical FORTRAN code
- - [ ] Add an MCDS README
+ - [ ] *Dave*: **Clarify whether SourceForge hosts the canonical FORTRAN code**
+ - [ ] *Dave*: **Add an MCDS README**
 
 
 Coding standards
 ================
 
- - [ ] Coding standards for the three languages used within Distance are as follows.
  - [ ] Refer R developers to the CRAN Writing R Extensions guide
  - [ ] Propose a minimal set of coding standards for each language
+
+*Laura to look at guidelines she's written before*
+
+*Laura suggests "how to release on CRAN" guide?*
 
 
 Testing protocols
 =================
 
+**Return to this when talking about testing and releases**
+
  - [ ] Provide information on how to run Distance for Windows test projects
  - [ ] Provide information on how to write and run VB tests
  - [ ] Implement MCDS tests
  - [ ] Provide information on how to write and run MCDS tests
- - [ ] Generalise testthat advice
- - [ ] Update link to testthat
+ - [ ] Generalise `testthat` advice
+ - [ ] Update link to `testthat`
+
+*Laura mentioned importance of having a repo for test projects*
 
 
 Release processes
 =================
 
- - [ ] Document release processes
+ - [ ] *Document (major) release processes*
+
 
 Setting up a development environment
 ====================================
 
- - [ ] Provide a "clean" virtual machine
+ - [ ] *Len* **Provide a "clean" virtual machine**
 
 
 Additional documentation recommendations
 ========================================
+
+**Implement if easy**
 
  - [ ] Put Required knowledge in its own section
  - [ ] Add GIS to required knowledge
@@ -96,9 +111,10 @@ Additional documentation recommendations
  - [ ] Link to DistanceDevelopment web-site from package `README.md` files
  - [ ] Make Creating a New Numerical Engine a stand-alone tutorial
 
+
 Additional general recommendations
 ==================================
 
- - [ ] Automate upgrade support
- - [ ] ~~Host project resources in project, not personal, spaces~~
- - [ ] Add copyright and licence statements to each R repository
+ - [ ] ~~Automate upgrade support~~
+ - [X] Host project resources in project, not personal, spaces
+ - [ ] **Add copyright and licence statements to each R repository**
