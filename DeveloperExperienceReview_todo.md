@@ -73,9 +73,13 @@ Testing protocols
 **Return to this when talking about testing and releases**
 
  - [ ] Provide information on how to run Distance for Windows test projects
+   - [ ] Add `README` in `%BASE%Extras\Test Projects`
  - [ ] Provide information on how to write and run VB tests
+   - what would we test? Building a project, importing data, running some models. Sample projects? Student project?
  - [ ] Implement MCDS tests
+   - [ ] Use `readdst` to grab commands and run via `MCDS.exe` (student project)
  - [ ] Provide information on how to write and run MCDS tests
+   - See above
  - [X] Generalise `testthat` advice
     - [already done](http://distancesampling.org/developer/develop/BuildR.html)
  - [X] Update link to `testthat`
